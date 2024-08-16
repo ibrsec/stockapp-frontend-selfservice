@@ -5,7 +5,7 @@
 <br />
 <div align="center">
    
-  <a href="https://github.com/ibrsec/redux-toolkit-mp3dowloader/">
+  <a href="https://github.com/ibrsec/stockapp-frontend-selfservice">
     <img src="./public/logo.png" alt="Logo" width="250"   >
   </a>
 
@@ -13,14 +13,18 @@
 
   <p align="center">
     An awesome Stock App
-    <a href="https://github.com/ibrsec/stock-app"><strong>Explore the docs »</strong></a>
+    <!-- <a href="https://github.com/ibrsec/stockapp-frontend-selfservice"><strong>Explore the docs »</strong></a> -->
     <br />
     <br />
-    <a href="https://ultra-stock-app.vercel.app/">View Demo</a>
+    <a href="https://stockapp-frontend-selfservice.vercel.app/">View Demo</a>
     ·
-    <a href="https://github.com/ibrsec/stock-app/issues">Report Bug</a>
+    <a href="https://backend-stockapi-express.vercel.app/documents/swagger/">Backend swagger</a>
     ·
-    <a href="https://github.com/ibrsec/stock-app/issues">Request Feature</a>
+    <a href="https://github.com/ibrsec/backend-stockapi">Backend repo</a>
+    ·
+    <a href="https://github.com/ibrsec/stockapp-frontend-selfservice/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/ibrsec/stockapp-frontend-selfservice/issues">Request Feature</a>
   </p>
 </div>
 
@@ -64,7 +68,7 @@
 <a name="about-the-project"></a>
 ## ℹ️ About The Project
 
-[![stock-app](./public/project.gif)](https://ultra-stock-app.vercel.app/)
+[![stockapp-frontend-selfservice](./public/project.gif)](https://stockapp-frontend-selfservice.vercel.app/)
 
 
 
@@ -87,7 +91,7 @@
 <a name="overview"></a>
 ## 👀 Overview
 
-📦 Used a ready backend for stock api </br>
+📦 Frontend of the my [backend-stockapi](https://github.com/ibrsec/backend-stockapi) project </br>
 🎯 Used React environment, redux toolkit,redux-persist,react-routing,material mui-x-datagrid, mui-x-charts ,axios,formik, yup, toastify, </br>
 🖥 You can Register or login with the ready credentials on the login page, Contents can be accessed after logging in! </br>
 🔩 After login there is  a few page like dashboard,products,sales,purchases,firms,brands</br>
@@ -107,10 +111,10 @@ They can be edited, deleted, and new records can be added. You can also make edi
 
 ```sh
 # clone the project
-git clone https://github.com/ibrsec/stock-app.git
+git clone https://github.com/ibrsec/stockapp-frontend-selfservice.git
 
 # enter the project directory
-cd stock-app
+cd stockapp-frontend-selfservice
 
 # install dependency
 npm install || yarn install
@@ -124,7 +128,7 @@ npm run dev || yarn start
 
 <!-- ## 🐞 Debug
 
-![stock-app.gif](/stock-app.gif) -->
+![stockapp-frontend-selfservice.gif](/stockapp-frontend-selfservice.gif) -->
 
 
 
@@ -137,7 +141,7 @@ npm run dev || yarn start
 ## 📂 Directory structure 
 
 ```diff
-stock-app  (folder)
+stockapp-frontend-selfservice  (folder)
   |          
   |---public (folder) 
   |                
