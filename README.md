@@ -91,16 +91,25 @@
 <a name="overview"></a>
 ## 👀 Overview
 
-📦 Frontend of the my [backend-stockapi](https://github.com/ibrsec/backend-stockapi) project </br>
-🎯 Used React environment, redux toolkit,redux-persist,react-routing,material mui-x-datagrid, mui-x-charts ,axios,formik, yup, toastify, </br>
-🖥 You can Register or login with the ready credentials on the login page, Contents can be accessed after logging in! </br>
-🔩 After login there is  a few page like dashboard,products,sales,purchases,firms,brands</br>
-💪 All fields can be manage in their pages</br>
-🌱 Records of all fields can be edited, deleted or new records can be added on their own pages</br>
-🐞 Firms and Brands pages listed as cards they have edit delete and add new record features   </br>
-🏀 Information listed in tables on the Purchases, Sales, Products pages,
-They can be edited, deleted, and new records can be added. You can also make edits on table rows.  
-</br>
+📦 Frontend of the my [backend-stockapi](https://github.com/ibrsec/backend-stockapi) project </br></br>
+
+🎯 <b>React Development:</b> Built a responsive frontend with React.js, delivering a seamless user experience.</br>
+
+🛠 <b>State Management:</b> Utilized Redux Toolkit and Persist for consistent state management across sessions.</br>
+
+🚀 <b>React Router:</b> Integrated React Router for smooth navigation between key sections like dashboard, products, and sales.</br>
+
+📊 <b>UI Components:</b> Employed Material UI's DataGrid and Charts for interactive tables and data visualizations.</br>
+
+📝 <b>Form Validation:</b> Managed forms with Formik and Yup for accurate data input and validation.</br>
+
+🔔 <b>User Notifications:</b> Added real-time feedback using Toastify for actions like adding or editing records.</br>
+
+💾 <b>CRUD Operations:</b> Implemented full CRUD functionality for products, sales, firms, and more.</br>
+
+🃏 <b>Card Layouts:</b> Designed intuitive card-based interfaces for managing firms and brands.</br>
+
+📊 <b>Data Tables:</b> Organized stock information in editable tables for easy data management.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
